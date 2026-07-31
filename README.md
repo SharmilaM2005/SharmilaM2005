@@ -8,7 +8,6 @@
 
 <img src="./assets/dev-illustration.svg" width="85%"/>
 
-<sub>🖥️ just another night shipping code across three monitors</sub>
 
 <br><br>
 
