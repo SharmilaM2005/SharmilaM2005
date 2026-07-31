@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00F0FF,50:7B2CBF,75:FF2079,100:0D1117&height=250&section=header&text=SHARMILA%20M&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=%3C%20Full-Time%20Software%20Developer%20%2F%2F%20Social%20Sector%20Tech%20%3E&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:00F0FF,50:FF2079,75:7B2CBF,100:0D0221&height=260&section=header&text=SHARMILA%20M&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=%3C%20Full-Time%20Software%20Developer%20%2F%2F%20Social%20Sector%20Tech%20%3E&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+whoami%3A+Sharmila+M+%F0%9F%91%8B;%3E+role%3A+Frappe+Developer+%40+APF;%3E+mission%3A+Tech+for+the+Social+Sector;%3E+stack%3A+Python+%2F+JS+%2F+Open+Source;%3E+status%3A+Code+with+Purpose._" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+whoami%3A+Sharmila+M+%F0%9F%91%8B;%3E+role%3A+Frappe+Developer+%40+APF;%3E+mission%3A+Tech+for+the+Social+Sector;%3E+stack%3A+Python+%2F+JS+%2F+Open+Source;%3E+status%3A+Code+with+Purpose._" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F0FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/FOCUS-SOCIAL%20IMPACT-FF2079?style=for-the-badge&labelColor=0D1117&logo=heart&logoColor=FF2079"/>
-<img src="https://img.shields.io/badge/ROLE-FULL%20TIME%20DEVELOPER-39FF14?style=for-the-badge&labelColor=0D1117&logo=codefactor&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-7B2CBF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=7B2CBF"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-0D0221?style=for-the-badge&labelColor=00F0FF&logo=statuspage&logoColor=0D0221"/>
+<img src="https://img.shields.io/badge/FOCUS-SOCIAL%20IMPACT-0D0221?style=for-the-badge&labelColor=FF2079&logo=heart&logoColor=0D0221"/>
+<img src="https://img.shields.io/badge/ROLE-FULL%20TIME%20DEVELOPER-0D0221?style=for-the-badge&labelColor=39FF14&logo=codefactor&logoColor=0D0221"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SharmilaM2005&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/SharmilaM2005?style=for-the-badge&color=7B2CBF&labelColor=0D1117&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=SharmilaM2005&style=for-the-badge&color=7B2CBF&labelColor=0D0221&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SharmilaM2005?style=for-the-badge&color=00F0FF&labelColor=0D0221&label=FOLLOWERS&logoColor=white"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,25:7B2CBF,50:00F0FF,75:39FF14,100:0D1117&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,50:00F0FF,100:7B2CBF&height=12&width=100%25" width="100%"/>
 
 </div>
 
@@ -31,13 +30,13 @@ role: "Frappe Framework Developer @ APF"
 education: "BCA Graduate"
 mission: "Building meaningful technology for the social sector"
 currently_seeking: "Full-time Software Developer role — Social Impact Tech"
-status: [Learning, Building, Shipping, Collaborating] # infinite loop
+status: [Learning, Building, Shipping, Collaborating]  # infinite loop
 ```
 
 I turn ideas into clean, functional applications — with a pull toward projects that leave the world a little better than I found it. Looking for a **full-time role** where solid engineering meets real social impact. 🚀
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:7B2CBF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:FF2079&height=12&width=100%25" width="100%"/>
 </div>
 
 ## ⚡ &nbsp;`~/tech-stack`
@@ -48,15 +47,15 @@ I turn ideas into clean, functional applications — with a pull toward projects
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Frappe_Framework-00F0FF?style=for-the-badge&logo=frappe&logoColor=0D1117&labelColor=0D1117&color=0D1117"/>
-<img src="https://img.shields.io/badge/ERPNext-39FF14?style=for-the-badge&logo=frappe&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MariaDB-FF2079?style=for-the-badge&logo=mariadb&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/REST_APIs-7B2CBF?style=for-the-badge&logo=fastapi&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Frappe_Framework-0D0221?style=for-the-badge&logo=frappe&logoColor=00F0FF&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/ERPNext-0D0221?style=for-the-badge&logo=frappe&logoColor=39FF14&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/MariaDB-0D0221?style=for-the-badge&logo=mariadb&logoColor=FF2079&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/REST_APIs-0D0221?style=for-the-badge&logo=fastapi&logoColor=7B2CBF&labelColor=0D0221"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:FF2079,100:00F0FF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:7B2CBF&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 🧬 &nbsp;`~/skill-radar`
@@ -71,7 +70,7 @@ REST API Design    ██████████████░░░░░░ 
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF2079&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,50:7B2CBF,100:00F0FF&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 💼 &nbsp;`~/currently`
@@ -104,7 +103,7 @@ REST API Design    ██████████████░░░░░░ 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,50:00F0FF,100:7B2CBF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:FF2079&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 🚀 &nbsp;`~/featured-work`
@@ -136,28 +135,28 @@ REST API Design    ██████████████░░░░░░ 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:39FF14&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:39FF14&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 📊 &nbsp;`~/github-stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SharmilaM2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2079&text_color=FFFFFF&border_color=7B2CBF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmilaM2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SharmilaM2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF2079&text_color=FFFFFF&border_color=7B2CBF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmilaM2005&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=SharmilaM2005&theme=radical&hide_border=true&background=0D1117&ring=FF2079&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
+<img src="https://streak-stats.demolab.com?user=SharmilaM2005&theme=radical&hide_border=true&background=0D0221&ring=FF2079&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmilaM2005&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF2079&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmilaM2005&theme=react-dark&bg_color=0D0221&color=00F0FF&line=FF2079&point=FFFFFF&hide_border=true" width="90%"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00F0FF,100:7B2CBF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00F0FF,100:7B2CBF&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 🏆 &nbsp;`~/trophies`
@@ -169,7 +168,7 @@ REST API Design    ██████████████░░░░░░ 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:7B2CBF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:7B2CBF&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 🐍 &nbsp;`~/contribution-snake`
@@ -181,7 +180,7 @@ REST API Design    ██████████████░░░░░░ 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:FF2079,100:00F0FF&height=4&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:FF2079,100:00F0FF&height=12&width=100%25" width="100%"/>
 </div>
 
 ## 🌐 &nbsp;`~/connect`
@@ -189,10 +188,10 @@ REST API Design    ██████████████░░░░░░ 
 <div align="center">
 
 <a href="mailto:sharmilabio28@gmail.com">
-<img src="https://img.shields.io/badge/Email-sharmilabio28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-sharmilabio28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221"/>
 </a>
 <a href="https://www.linkedin.com/in/sharmila-m-5b02002a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Sharmila%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sharmila%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221"/>
 </a>
 
 </div>
@@ -205,6 +204,6 @@ REST API Design    ██████████████░░░░░░ 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7B2CBF,50:00F0FF,75:FF2079,100:0D1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:7B2CBF,50:00F0FF,75:FF2079,100:0D0221&height=150&section=footer" width="100%"/>
 
 </div>
