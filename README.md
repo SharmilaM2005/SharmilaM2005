@@ -12,11 +12,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=SharmilaM2005&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
 
 ## 👩‍💻 &nbsp;About Me
 
@@ -31,26 +31,29 @@ whoami:
 
 I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas into clean, functional applications. I'm driven by projects that create **real social impact** — and I'm looking for a **full-time software developer role** where technology and purpose meet.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F0FF"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vscode&theme=dark" />
+</a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Frappe-000000?style=for-the-badge&logo=frappe&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7B2CBF"/>
+<img src="https://img.shields.io/badge/ERPNext-000000?style=for-the-badge&logo=frappe&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 💼 &nbsp;Currently
 
@@ -81,7 +84,9 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -92,7 +97,7 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmilaM2005&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2CBF&currStreakLabel=00F0FF" height="165"/>
+<img src="https://streak-stats.demolab.com?user=SharmilaM2005&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2CBF&currStreakLabel=00F0FF" height="165"/>
 
 <br>
 
@@ -100,7 +105,9 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🏆 &nbsp;Trophies
 
@@ -110,7 +117,9 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2CBF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -118,11 +127,18 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <img src="https://raw.githubusercontent.com/SharmilaM2005/SharmilaM2005/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>⚙️ To activate this, add the <code>platane/snk</code> GitHub Action to your profile repo — ask me and I'll set up the workflow file for you.</sub>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+> ⚠️ **This section needs one setup step to render** — see `.github/workflows/snake.yml` included alongside this README. Steps:
+> 1. Create a repo named exactly `SharmilaM2005` (your username) if you haven't already — this is your special GitHub profile repo.
+> 2. Copy the `snake.yml` file into `.github/workflows/snake.yml` in that repo.
+> 3. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions"**.
+> 4. Push a commit (or manually run the workflow from the **Actions** tab) — it generates an `output` branch containing the SVG, which is what the image above points to.
+> 5. Give it a minute after the first run, then refresh your profile page.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🌐 &nbsp;Connect with Me
 
@@ -141,7 +157,7 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <div align="center">
 
-### 💬 &nbsp; "Code with purpose. Build with heart."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Code+with+purpose.+Build+with+heart." alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:0D1117&height=120&section=footer" width="100%"/>
 
