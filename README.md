@@ -129,13 +129,6 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 </div>
 
-> ⚠️ **This section needs one setup step to render** — see `.github/workflows/snake.yml` included alongside this README. Steps:
-> 1. Create a repo named exactly `SharmilaM2005` (your username) if you haven't already — this is your special GitHub profile repo.
-> 2. Copy the `snake.yml` file into `.github/workflows/snake.yml` in that repo.
-> 3. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions"**.
-> 4. Push a commit (or manually run the workflow from the **Actions** tab) — it generates an `output` branch containing the SVG, which is what the image above points to.
-> 5. Give it a minute after the first run, then refresh your profile page.
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:00F0FF&height=3&width=100%25" width="100%"/>
 </div>
