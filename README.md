@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/FOCUS-SOCIAL%20IMPACT-7B2CBF?style=for-the-badge&labelColor=0D1117&logo=heart&logoColor=FF2079"/>
 <img src="https://img.shields.io/badge/ROLE-FULL%20TIME%20DEVELOPER-39FF14?style=for-the-badge&labelColor=0D1117&logo=codefactor&logoColor=39FF14"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SharmilaM2005&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -87,16 +87,16 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SharmilaM2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmilaM2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_color=7B2CBF" height="165" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2CBF&currStreakLabel=00F0FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmilaM2005&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2CBF&currStreakLabel=00F0FF" height="165"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=00F0FF&line=7B2CBF&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmilaM2005&theme=react-dark&bg_color=0D1117&color=00F0FF&line=7B2CBF&point=FFFFFF&hide_border=true" width="90%"/>
 
 </div>
 
@@ -106,7 +106,7 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SharmilaM2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
@@ -116,7 +116,7 @@ I'm a **BCA graduate** working as a **Frappe Developer at APF**, turning ideas i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/SharmilaM2005/SharmilaM2005/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>⚙️ To activate this, add the <code>platane/snk</code> GitHub Action to your profile repo — ask me and I'll set up the workflow file for you.</sub>
 
