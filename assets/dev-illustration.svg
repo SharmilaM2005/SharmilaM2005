@@ -1,0 +1,144 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="100%" stop-color="#1a0033"/>
+    </linearGradient>
+    <linearGradient id="screenGradL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="100%" stop-color="#1a0033"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowPink" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" fill="url(#bgGrad)"/>
+
+  <!-- perspective floor grid -->
+  <g stroke="#7B2CBF" stroke-opacity="0.25" stroke-width="1">
+    <line x1="0" y1="430" x2="900" y2="430"/>
+    <line x1="0" y1="410" x2="900" y2="410"/>
+    <line x1="450" y1="380" x2="0" y2="460"/>
+    <line x1="450" y1="380" x2="120" y2="470"/>
+    <line x1="450" y1="380" x2="450" y2="480"/>
+    <line x1="450" y1="380" x2="780" y2="470"/>
+    <line x1="450" y1="380" x2="900" y2="460"/>
+  </g>
+
+  <!-- floating particles -->
+  <g>
+    <circle cx="80" cy="90" r="3" fill="#00F0FF" filter="url(#glowCyan)">
+      <animate attributeName="cy" values="90;60;90" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="120" r="4" fill="#FF2079" filter="url(#glowPink)">
+      <animate attributeName="cy" values="120;85;120" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="200" r="2.5" fill="#39FF14">
+      <animate attributeName="cy" values="200;170;200" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="230" r="3" fill="#00F0FF" filter="url(#glowCyan)">
+      <animate attributeName="cy" values="230;195;230" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="60" r="3" fill="#7B2CBF" filter="url(#glowPink)">
+      <animate attributeName="cy" values="60;30;60" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- desk -->
+  <rect x="140" y="380" width="620" height="16" rx="4" fill="#12002e" stroke="#00F0FF" stroke-width="2" filter="url(#glowCyan)"/>
+  <rect x="160" y="396" width="12" height="60" fill="#1a0033" stroke="#7B2CBF" stroke-width="1.5"/>
+  <rect x="728" y="396" width="12" height="60" fill="#1a0033" stroke="#7B2CBF" stroke-width="1.5"/>
+
+  <!-- LEFT monitor -->
+  <g transform="translate(170,225)">
+    <rect x="0" y="0" width="180" height="118" rx="6" fill="url(#screenGradL)" stroke="#00F0FF" stroke-width="2.5" filter="url(#glowCyan)"/>
+    <rect x="80" y="118" width="20" height="16" fill="#1a0033"/>
+    <rect x="55" y="134" width="70" height="6" rx="3" fill="#1a0033"/>
+    <g fill="#00F0FF" opacity="0.85">
+      <rect x="14" y="16" width="70" height="5" rx="2"><animate attributeName="width" values="70;35;70" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="30" width="110" height="5" rx="2" fill="#FF2079"><animate attributeName="width" values="110;55;110" dur="2.6s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="44" width="55" height="5" rx="2" fill="#39FF14"><animate attributeName="width" values="55;95;55" dur="3.4s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="58" width="90" height="5" rx="2"><animate attributeName="width" values="90;45;90" dur="2.9s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="72" width="65" height="5" rx="2" fill="#7B2CBF"><animate attributeName="width" values="65;100;65" dur="3.1s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="86" width="100" height="5" rx="2"><animate attributeName="width" values="100;60;100" dur="2.4s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- RIGHT monitor -->
+  <g transform="translate(550,225)">
+    <rect x="0" y="0" width="180" height="118" rx="6" fill="url(#screenGradL)" stroke="#FF2079" stroke-width="2.5" filter="url(#glowPink)"/>
+    <rect x="80" y="118" width="20" height="16" fill="#1a0033"/>
+    <rect x="55" y="134" width="70" height="6" rx="3" fill="#1a0033"/>
+    <g fill="#FF2079" opacity="0.85">
+      <rect x="14" y="16" width="60" height="5" rx="2"><animate attributeName="width" values="60;100;60" dur="3.2s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="30" width="100" height="5" rx="2" fill="#00F0FF"><animate attributeName="width" values="100;50;100" dur="2.7s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="44" width="70" height="5" rx="2" fill="#39FF14"><animate attributeName="width" values="70;110;70" dur="3.6s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="58" width="95" height="5" rx="2"><animate attributeName="width" values="95;45;95" dur="2.5s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="72" width="50" height="5" rx="2" fill="#7B2CBF"><animate attributeName="width" values="50;90;50" dur="3.3s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="86" width="85" height="5" rx="2"><animate attributeName="width" values="85;55;85" dur="2.8s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- CENTER (main) monitor -->
+  <g transform="translate(330,190)">
+    <rect x="0" y="0" width="240" height="160" rx="8" fill="url(#screenGradL)" stroke="#7B2CBF" stroke-width="3" filter="url(#glowCyan)"/>
+    <rect x="105" y="160" width="30" height="20" fill="#1a0033"/>
+    <rect x="75" y="180" width="90" height="8" rx="4" fill="#1a0033"/>
+    <g fill="#00F0FF" opacity="0.9" font-family="monospace" font-size="11">
+      <text x="18" y="26">&gt; init_project.py</text>
+      <text x="18" y="44" fill="#39FF14">building social impact tools...</text>
+      <text x="18" y="62" fill="#FF2079">[||||||||||........] 62%</text>
+    </g>
+    <g fill="#00F0FF" opacity="0.8">
+      <rect x="18" y="80" width="90" height="5" rx="2"><animate attributeName="width" values="90;45;90" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="18" y="94" width="140" height="5" rx="2" fill="#7B2CBF"><animate attributeName="width" values="140;70;140" dur="2.6s" repeatCount="indefinite"/></rect>
+      <rect x="18" y="108" width="70" height="5" rx="2" fill="#FF2079"><animate attributeName="width" values="70;120;70" dur="3.4s" repeatCount="indefinite"/></rect>
+      <rect x="18" y="122" width="110" height="5" rx="2"><animate attributeName="width" values="110;60;110" dur="2.9s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect x="18" y="136" width="7" height="12" fill="#00F0FF">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- character (back view, sitting at desk) -->
+  <g transform="translate(450,270)">
+    <!-- chair -->
+    <path d="M -46 40 Q -46 130 -30 150 L 30 150 Q 46 130 46 40 Z" fill="#12002e" stroke="#7B2CBF" stroke-width="2"/>
+    <rect x="-50" y="30" width="100" height="14" rx="6" fill="#1a0033" stroke="#7B2CBF" stroke-width="2"/>
+    <!-- ponytail -->
+    <path d="M 34 -55 Q 66 -30 48 20 Q 60 -20 30 -50 Z" fill="#FF2079" filter="url(#glowPink)"/>
+    <!-- shoulders/back -->
+    <path d="M -42 20 Q 0 -14 42 20 L 46 95 Q 0 118 -46 95 Z" fill="#160029" stroke="#00F0FF" stroke-width="2"/>
+    <!-- head -->
+    <circle cx="0" cy="-38" r="26" fill="#160029" stroke="#00F0FF" stroke-width="2"/>
+    <!-- hair -->
+    <path d="M -26 -50 Q -30 -78 0 -80 Q 30 -78 26 -50 Q 20 -66 0 -68 Q -20 -66 -26 -50 Z" fill="#7B2CBF"/>
+    <!-- arms toward keyboard -->
+    <path d="M -38 40 Q -55 60 -50 78" stroke="#160029" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <path d="M 38 40 Q 55 60 50 78" stroke="#160029" stroke-width="14" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- keyboard glow -->
+  <rect x="405" y="352" width="90" height="14" rx="3" fill="#1a0033" stroke="#39FF14" stroke-width="1.5" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.5;0.9" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="900" height="6" fill="#00F0FF" opacity="0.12">
+    <animate attributeName="y" values="0;474;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
