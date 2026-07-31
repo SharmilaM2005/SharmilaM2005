@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:7B2CBF&height=220&section=header&text=SHARMILA%20M&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%3C%20Full-Time%20Software%20Developer%20%2F%2F%20Social%20Sector%20Tech%20%3E&descAlignY=55&descSize=17" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+whoami%3A+Sharmila+M+%F0%9F%91%8B;%3E+role%3A+Frappe+Developer+%40+APF;%3E+mission%3A+Tech+for+the+Social+Sector;%3E+stack%3A+Python+%2F+JS+%2F+Open+Source;%3E+status%3A+Code+with+Purpose._" alt="Typing SVG" />
 
 <br>
 
 <img src="./assets/dev-illustration.svg" width="85%"/>
-
 
 <br><br>
 
@@ -22,7 +21,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,50:00F0FF,100:7B2CBF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -41,7 +40,7 @@ status: [Learning, Building, Shipping, Collaborating]  # infinite loop
 I turn ideas into clean, functional applications — with a pull toward projects that leave the world a little better than I found it. Looking for a **full-time role** where solid engineering meets real social impact. 🚀
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:FF2079&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## ⚡ &nbsp;`~/tech-stack`
@@ -60,7 +59,7 @@ I turn ideas into clean, functional applications — with a pull toward projects
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:7B2CBF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 🧬 &nbsp;`~/skill-radar`
@@ -75,7 +74,7 @@ REST API Design    ██████████████░░░░░░ 
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2079,50:7B2CBF,100:00F0FF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 💼 &nbsp;`~/currently`
@@ -108,7 +107,7 @@ REST API Design    ██████████████░░░░░░ 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00F0FF,100:FF2079&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 🚀 &nbsp;`~/featured-work`
@@ -140,7 +139,7 @@ REST API Design    ██████████████░░░░░░ 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:39FF14&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 📊 &nbsp;`~/github-stats`
@@ -161,7 +160,7 @@ REST API Design    ██████████████░░░░░░ 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00F0FF,100:7B2CBF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 🏆 &nbsp;`~/trophies`
@@ -173,7 +172,7 @@ REST API Design    ██████████████░░░░░░ 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:7B2CBF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 🐍 &nbsp;`~/contribution-snake`
@@ -185,7 +184,7 @@ REST API Design    ██████████████░░░░░░ 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:FF2079,100:00F0FF&height=10&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
 ## 🌐 &nbsp;`~/connect`
@@ -209,6 +208,6 @@ REST API Design    ██████████████░░░░░░ 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2CBF,100:00F0FF&height=150&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
