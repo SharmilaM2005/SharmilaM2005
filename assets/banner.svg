@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#00F0FF">
+        <animate attributeName="stop-color" values="#00F0FF;#FF2079;#7B2CBF;#00F0FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7B2CBF"/>
+    </linearGradient>
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="#0D1117"/>
+
+  <path fill="url(#waveGrad)" opacity="0.85">
+    <animate attributeName="d"
+      values="M0,160 C150,110 300,200 450,150 C600,100 750,180 900,140 L900,220 L0,220 Z;
+              M0,140 C150,190 300,120 450,170 C600,140 750,120 900,170 L900,220 L0,220 Z;
+              M0,160 C150,110 300,200 450,150 C600,100 750,180 900,140 L900,220 L0,220 Z"
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="url(#waveGrad)" opacity="0.5">
+    <animate attributeName="d"
+      values="M0,180 C150,150 300,210 450,175 C600,140 750,200 900,165 L900,220 L0,220 Z;
+              M0,165 C150,205 300,150 450,190 C600,165 750,150 900,190 L900,220 L0,220 Z;
+              M0,180 C150,150 300,210 450,175 C600,140 750,200 900,165 L900,220 L0,220 Z"
+      dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="450" y="88" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="54" font-weight="700" fill="#FFFFFF" filter="url(#textGlow)">
+    SHARMILA M
+  </text>
+
+  <text x="450" y="122" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="17" fill="#00F0FF">
+    &lt; Full-Time Software Developer // Social Sector Tech &gt;
+  </text>
+
+  <circle cx="60" cy="40" r="2.5" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="840" cy="45" r="2.5" fill="#FF2079">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="180" r="2" fill="#00F0FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="810" cy="185" r="2" fill="#7B2CBF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
